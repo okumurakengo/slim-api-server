@@ -1,0 +1,5 @@
+/Applications/MAMP/bin/php/php7.1.30/bin/php -S localhost:8080 -t public public/index.php
+
+php.ini
+[sqlite3]
+sqlite3.extension_dir = /System/Library/Tcl/sqlite3/libtclsqlite3.dylib
